@@ -1,0 +1,18 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Aleksander Dimitrijevic",
+            "role": "Pimp",
+            "phone": "0987654321",
+            "email": "myemail@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Patrick Carragher",
+            "role": "Professional couch potato",
+            "phone": "1234567890",
+            "email": "eksdee@mail.com"
+        }
+    ]
+}
